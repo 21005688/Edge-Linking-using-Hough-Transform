@@ -83,5 +83,6 @@ plt.imshow(canny_edge)
 
 
 
+
 ## Result:
 Thus the program is written with python and OpenCV to detect lines using Hough transform. 
