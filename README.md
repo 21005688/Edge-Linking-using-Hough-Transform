@@ -69,6 +69,7 @@ plt.imshow(canny_edge)
 
 ### Input image and grayscale image
 
+![i1](https://user-images.githubusercontent.com/94747031/235337573-8fb19802-19fa-4dd3-bc4b-b07874bed27a.png)
 
 
 ### Canny Edge detector output
@@ -78,7 +79,8 @@ plt.imshow(canny_edge)
 
 ### Display the result of Hough transform
 
-![Uploading i2.png…]()
+
+
 
 
 ## Result:
